@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "907788439645",
+    "project_id": "ifa-21312076",
+    "storage_bucket": "ifa-21312076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907788439645:android:470cbbee4efd9f0a7c7db4",
+        "android_client_info": {
+          "package_name": "com.example.ifa_21312076"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARG81oegZAXNE20H2KRTEg08j6Vvhef7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907788439645:android:b85098dbd786dc987c7db4",
+        "android_client_info": {
+          "package_name": "com.example.latihan_21312076"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARG81oegZAXNE20H2KRTEg08j6Vvhef7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907788439645:android:a716ea89448257247c7db4",
+        "android_client_info": {
+          "package_name": "com.teknokrat.ifa_21312076"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARG81oegZAXNE20H2KRTEg08j6Vvhef7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
